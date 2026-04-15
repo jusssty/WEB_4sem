@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background: darkgreen;
+}
+
+header a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+header a:hover {
+    background: lightgreen;
+    color: black;
+}
+
+.selected_menu {
+    background: white;
+    color: darkgreen;
+}
+
+main {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background: #333;
+    color: #ccc;
+    text-align: center;
+    line-height: 60px;
+}
