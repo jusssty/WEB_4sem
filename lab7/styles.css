@@ -1,0 +1,59 @@
+/*sort.php*/
+.arr_element {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 10px;
+    background: #f0f0f0;
+    border-radius: 3px;
+}
+.iteration {
+    margin: 10px 0;
+    padding: 8px;
+    background: #e8f4f8;
+    border-left: 3px solid #2196F3;
+}
+.iteration-num {
+    font-weight: bold;
+    color: #2196F3;
+}
+.warning {
+    color: red;
+    font-weight: bold;
+    padding: 10px;
+    background: #ffeeee;
+    border: 1px solid red;
+}
+.success {
+    color: green;
+    font-weight: bold;
+}
+h2 {
+    color: #333;
+}
+
+/*index.php*/
+.element_row {
+    margin: 5px 0;
+}
+.element_row input {
+    margin-left: 10px;
+}
+table {
+    margin: 15px 0;
+}
+td {
+    padding: 5px;
+}
+.element-index {
+    font-weight: bold;
+    color: #333;
+}
+button, input[type="button"], input[type="submit"] {
+    margin: 5px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+select {
+    padding: 8px;
+    margin: 5px;
+}
