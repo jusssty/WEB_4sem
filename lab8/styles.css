@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+.source-text {
+    color: blue;
+    font-style: italic;
+}
+.error {
+    color: red;
+}
+
+.special-symbol {
+    text-align: center;
+    vertical-align: middle;
+}
